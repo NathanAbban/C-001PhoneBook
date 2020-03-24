@@ -1,0 +1,12 @@
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\bin\Debug\NatAbb_MediaPlayer.exe.config
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\bin\Debug\NatAbb_MediaPlayer.exe
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\bin\Debug\NatAbb_MediaPlayer.pdb
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\obj\Debug\NatAbb_MediaPlayer.csprojAssemblyReference.cache
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\obj\Debug\NatAbb_MediaPlayer.Properties.Resources.resources
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\obj\Debug\NatAbb_MediaPlayer.csproj.GenerateResource.cache
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\obj\Debug\NatAbb_MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\obj\Debug\NatAbb_MediaPlayer.exe
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\obj\Debug\NatAbb_MediaPlayer.pdb
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\bin\Debug\Database1.mdf
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\bin\Debug\Database1_log.ldf
+C:\Users\Angel2man\Documents\CShare Projects\NatAbb_MediaPlayer\obj\Debug\NatAbb_MediaPlayer.NatAbbPhoneBook.resources
